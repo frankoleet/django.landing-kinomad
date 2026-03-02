@@ -22,4 +22,4 @@ Views: Функция представления обрабатывает дан
 
 ![Landing ico](https://github.com/sanfranko/django.landing-kinomad/assets/100057117/876fcf14-1d8f-4fd7-a055-b5df4517ab61)
 
-### [Посетить](https://sanfranko.github.io/landing-kinomad/)
+### [Посетить](https://frankoleet.github.io/landing-kinomad/)
